@@ -1,0 +1,99 @@
+﻿MAG_representative,Assigned_taxon_GTDB,ANI_%,Completeness_%,Contamination_%,In_core_wildtype,Product(s)
+cured_tongue.9,Staphylococcus saprophyticus,99.68,78.4,0.14,YES,cured_tongue/miao_suanrou/mutton_sausage
+cured_tongue.20,Staphylococcus equorum_A,98.58,99.22,0.18,YES,DFS_salchichon/cured_tongue
+felino_salami.8,Staphylococcus equorum,98.97,92.22,0.17,YES,cecina/dry_aged_beef/felino_salami/miao_suanrou/mutton_sausage
+dry_aged_beef.33,Staphylococcus succinus,95.18,88.96,0.15,YES,dry_aged_beef
+felino_salami.15,Staphylococcus xylosus,97.77,96.75,1.29,YES,felino_salami
+miao_suanrou.101,Staphylococcus kloosii,99,86.18,1.67,NO,miao_suanrou
+miao_suanrou.8,Macrococcoides psychrotolerans,99.28,99.88,7.54,YES (via wild-type cluster member),felino_salami/miao_suanrou
+miao_suanrou.115,Macrococcoides bohemicum,98.44,90.5,0.55,NO,miao_suanrou
+miao_suanrou.99,Mammaliicoccus vitulinus,99.34,99.92,2.42,NO,miao_suanrou
+miao_suanrou.123,Weissella sp. (uSGB),N/A,74.96,0.25,NO,miao_suanrou
+miao_suanrou.68,Weissella sp. (uSGB),N/A,74.74,3.49,NO,miao_suanrou
+miao_suanrou.84,Weissella ceti,98.9,80.76,8.31,NO,miao_suanrou
+miao_suanrou.75,Weissella hellenica,99.03,78.66,2.82,NO,miao_suanrou
+miao_suanrou.94,Weissella minor,99.06,64.03,0.57,NO,miao_suanrou
+miao_suanrou.129,Weissella cibaria,98.75,84.98,3.11,NO,miao_suanrou
+miao_suanrou.72,Weissella paramesenteroides,98.56,86.66,1.59,NO,miao_suanrou
+dry_aged_beef.4,Enterococcus_D casseliflavus,98.85,94.67,1.22,YES,DFS_chorizo/dry_aged_beef
+miao_suanrou.116,Enterococcus_D sp001297065,97.67,99.97,1.33,NO,miao_suanrou
+miao_suanrou.125,Enterococcus_A viikkiensis,97.91,57.23,1.03,NO,miao_suanrou
+miao_suanrou.21,Enterococcus_A hermanniensis,99.83,80.16,1.04,NO,miao_suanrou
+miao_suanrou.82,Enterococcus faecalis,98.66,98.73,6.25,NO,miao_suanrou
+miao_suanrou.61,Carnobacterium maltaromaticum,99.3,94.7,0.57,NO,miao_suanrou
+miao_suanrou.83,Carnobacterium divergens,99.11,97.87,4.54,NO,miao_suanrou
+miao_suanrou.23,Enterococcus_G sp. (uSGB),N/A,86.24,0.84,NO,miao_suanrou
+miao_suanrou.24,Lentilactobacillus parabuchneri,99.67,92.45,0.32,NO,miao_suanrou
+miao_suanrou.80,Lentilactobacillus buchneri,99.75,89.09,5.57,NO,miao_suanrou
+miao_suanrou.74,Lentilactobacillus kisonensis,99.8,84.92,0.7,NO,miao_suanrou
+miao_suanrou.58,Lentilactobacillus parafarraginis,98.87,92.46,3.89,NO,miao_suanrou
+piemonte_salami.23,Pediococcus acidilactici,97.14,95.43,0.01,YES,miao_suanrou/piemonte_salami
+miao_suanrou.89,Pediococcus pentosaceus,99.11,95.67,5.23,NO,miao_suanrou
+DFS_salchichon.21,Levilactobacillus brevis,96.93,99.99,0.19,YES,DFS_salchichon/felino_salami/miao_suanrou/piemonte_salami
+DFS_chorizo.50,Lactiplantibacillus paraplantarum,98.05,78.04,9.83,YES,DFS_chorizo
+DFS_chorizo.45,Levilactobacillus cerevisiae,95.7,98.71,3.3,YES,DFS_chorizo
+dry_aged_beef.30,Brochothrix thermosphacta,99.5,98.61,0.05,YES,DFS_chorizo/cecina/dry_aged_beef/felino_salami/miao_suanrou
+piemonte_salami.24,Loigolactobacillus coryniformis,98.2,86.39,1.26,YES,piemonte_salami
+cured_tongue.28,Latilactobacillus sakei,97.46,99.65,0.36,YES,DFS_salchichon/ciauscolo/cured_tongue/felino_salami/miao_suanrou/piemonte_salami
+ciauscolo.5,Latilactobacillus curvatus,97.69,87.06,0.21,YES,DFS_chorizo/DFS_salchichon/ciauscolo/felino_salami/piemonte_salami
+ciauscolo.4,Lactococcus lactis,99.12,100,0.58,YES,ciauscolo
+miao_suanrou.25,Lactococcus cremoris,98.04,82.43,1.34,NO,miao_suanrou
+DFS_salchichon.14,Streptococcus thermophilus,98.72,93.55,0.17,YES,DFS_salchichon
+miao_suanrou.32,Pseudolactococcus raffinolactis,98.86,96.28,0.15,NO,miao_suanrou
+DFS_salchichon.18,Dellaglioa kimchii,97.99,99.98,0.08,YES,DFS_chorizo/DFS_salchichon
+cured_tongue.5,Tetragenococcus sp030462125,98.38,99.13,0.19,YES,cured_tongue
+felino_salami.20,Lactococcus formosensis,97.77,83.03,3.41,YES,felino_salami
+felino_salami.7,Leuconostoc mesenteroides,99.42,95.37,2.06,YES,felino_salami/miao_suanrou
+miao_suanrou.113,Pediococcus sp. (uSGB),N/A,71.39,0.04,NO,miao_suanrou
+piemonte_salami.18,Leuconostoc carnosum,99.94,99.93,0.06,YES,felino_salami/piemonte_salami
+DFS_chorizo.48,Leuconostoc gelidum,99.54,93.47,5.83,YES,DFS_chorizo/miao_suanrou
+felino_salami.12,Leuconostoc gasicomitatum,98.82,94.78,7.47,YES,felino_salami
+felino_salami.5,Leuconostoc citreum,99.07,96.03,0.02,YES,felino_salami
+miao_suanrou.6,Leuconostoc kimchii,99.43,80.06,0.4,NO,miao_suanrou
+miao_suanrou.46,Leuconostoc pseudomesenteroides,97.57,60.89,1.12,NO,miao_suanrou
+miao_suanrou.35,Furfurilactobacillus milii,99.54,73.85,5.44,NO,miao_suanrou
+miao_suanrou.47,Furfurilactobacillus rossiae,97.39,81.55,3.37,NO,miao_suanrou
+miao_suanrou.7,Furfurilactobacillus sp. (uSGB),N/A,61.97,0.04,NO,miao_suanrou
+piemonte_salami.14,Companilactobacillus versmoldensis,99.86,89.87,0,YES,DFS_chorizo/DFS_salchichon/piemonte_salami
+piemonte_salami.7,Companilactobacillus mishanensis,99.91,99.67,0.39,YES,piemonte_salami
+miao_suanrou.73,Streptococcus sp. (uSGB),N/A,94.15,0.18,NO,miao_suanrou
+miao_suanrou.81,Lacticaseibacillus paracasei,98.67,98.8,0.43,NO,miao_suanrou
+miao_suanrou.57,Psychrobacter arenosus,96.71,59.64,2.18,NO,miao_suanrou
+mutton_sausage.1,Vibrio hibernica,98.76,99.34,0.18,YES,mutton_sausage
+cured_tongue.24,Psychrobacter sanguinis,97.59,59.68,0.03,YES,cured_tongue
+dry_aged_beef.31,Psychrobacter pasteurii,97.09,94.35,4.25,YES,dry_aged_beef
+DFS_chorizo.11,Acinetobacter harbinensis,98.53,95,2.62,YES,DFS_chorizo/dry_aged_beef
+dry_aged_beef.2,Psychrobacter cibarius_A,97.57,62.01,0.42,YES,DFS_chorizo/cecina/dry_aged_beef/miao_suanrou
+cecina.54,Psychrobacter immobilis_F,97.15,73.96,0.87,YES,DFS_chorizo/cecina/dry_aged_beef
+miao_suanrou.13,Psychrobacter sp. (uSGB),N/A,61.04,7.6,NO,miao_suanrou
+miao_suanrou.38,Psychrobacter alimentarius,97.83,50.55,1.22,NO,miao_suanrou
+dry_aged_beef.15,Bacillus velezensis,98.8,96.91,0.57,YES,DFS_chorizo/dry_aged_beef
+cecina.64,Specibacter sp. (uSGB),N/A,96.27,0.99,YES,cecina
+miao_suanrou.122,Rothia endophytica,98.47,99.9,1.88,NO,miao_suanrou
+cured_tongue.13,Kocuria salsicia,96.01,89,4.41,YES,cured_tongue
+miao_suanrou.28,Kocuria rhizophila_A,99.13,99.99,4.09,NO,miao_suanrou
+cured_tongue.21,Rothia sp. (uSGB),N/A,54.85,1.22,YES,cured_tongue
+cured_tongue.3,Dermacoccus nishinomiyaensis,98.83,68.71,2.19,YES,cured_tongue
+cured_tongue.30,Brevibacterium sp. (uSGB),N/A,75.91,3.16,YES,cured_tongue
+miao_suanrou.30,Glutamicibacter bergerei,98.48,82.66,1.43,NO,miao_suanrou
+cecina.20,Aquipseudomonas shahriarae,98.8,66.68,3,YES,cecina
+cecina.71,Aquipseudomonas weihenstephanensis,96.87,71.66,8.05,YES,cecina
+miao_suanrou.56,Serratia proteamaculans,97.18,59.77,1.42,NO,miao_suanrou
+miao_suanrou.60,Serratia proteamaculans_D,95.44,67.53,0.6,NO,miao_suanrou
+miao_suanrou.97,Serratia liquefaciens,98.56,80.34,2.56,NO,miao_suanrou
+miao_suanrou.39,Erwinia sp. (uSGB),N/A,95.35,4.12,NO,miao_suanrou
+miao_suanrou.45,Hafnia alvei,95.64,56.99,1.12,NO,miao_suanrou
+miao_suanrou.33,Pseudocitrobacter corydidari,95.51,88.64,2.91,NO,miao_suanrou
+miao_suanrou.90,Kluyvera intermedia,99.03,92.41,7.23,NO,miao_suanrou
+miao_suanrou.15,Klebsiella terrigena,96.52,95.41,3.48,NO,miao_suanrou
+miao_suanrou.130,Dryocola sp051307055,98.91,70.57,1.72,NO,miao_suanrou
+miao_suanrou.70,Buttiauxella gaviniae,98.56,93.87,4.07,NO,miao_suanrou
+miao_suanrou.3,Pantoea floridensis,98.87,85.68,3.35,NO,miao_suanrou
+miao_suanrou.131,Pantoea astica,99.2,80.38,1.61,NO,miao_suanrou
+miao_suanrou.78,Pantoea brenneri,99.56,88.19,4.12,NO,miao_suanrou
+miao_suanrou.53,Pantoea agglomerans,97.66,85.71,1.42,NO,miao_suanrou
+miao_suanrou.121,Rahnella perminowiae,99.09,91.08,4.85,NO,miao_suanrou
+miao_suanrou.48,Rahnella aceris,99.34,78.13,1.27,NO,miao_suanrou
+miao_suanrou.52,Rahnella inusitata,99.01,91.18,4.4,NO,miao_suanrou
+cured_tongue.17,Ewingella americana,97.52,99.08,0.01,YES,cured_tongue
+miao_suanrou.26,Schleiferilactobacillus harbinensis,98.53,90.23,1.34,NO,miao_suanrou

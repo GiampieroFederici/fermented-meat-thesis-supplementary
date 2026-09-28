@@ -1,0 +1,41 @@
+﻿"
+Category",Resource,Version,Source / environment,Identifier and notes
+Deposited data,Metagenomes - beef and pork DFS,,Barcenilla et al. 2024,See raw reproducibility workbook for detailed provenance and run notes.
+Deposited data,Metagenomes - Salame Felino,,Ferrocino et al. 2018,See raw reproducibility workbook for detailed provenance and run notes.
+Deposited data,Metagenomes - Salame Piemonte,,Franciosa et al. 2021,See raw reproducibility workbook for detailed provenance and run notes.
+Deposited data,Metagenomes - Mutton sausage,,BioProject PRJNA895928 (no associated publication identified),See raw reproducibility workbook for detailed provenance and run notes.
+Deposited data,Metagenomes - Miao suan rou (inoculated external group),,BioProject PRJNA1337460,See raw reproducibility workbook for detailed provenance and run notes.
+Deposited data,Ciauscolo MUST_25 (dataset),,This study,See raw reproducibility workbook for detailed provenance and run notes.
+Software - preparation,"sra-tools (prefetch, fasterq-dump)",3.2.1,env ncbi,See raw reproducibility workbook for detailed provenance and run notes.
+Software - preparation,fastp,1.3.0,env trim,See raw reproducibility workbook for detailed provenance and run notes.
+Software - preparation,FastQC,0.12.1,env qc,See raw reproducibility workbook for detailed provenance and run notes.
+Software - preparation,MultiQC,1.33,env qc,See raw reproducibility workbook for detailed provenance and run notes.
+Software - preparation,Bowtie2,2.5.5,env host_filter,See raw reproducibility workbook for detailed provenance and run notes.
+Software - preparation,samtools,1.23.1,env binning / host_filter,See raw reproducibility workbook for detailed provenance and run notes.
+Software - profiling,MetaPhlAn,4.2.4 (21 Oct 2025),env profiling,mpa_vJan25_CHOCOPhlAnSGB_202503 database; one sample unclassified
+Software - profiling,StrainPhlAn,4.2.4 (21 Oct 2025),env profiling,See raw reproducibility workbook for detailed provenance and run notes.
+Software - profiling,Kraken2,2.17.1,env kraken2,Confidence threshold: 0.4
+Software - profiling,Bracken,3.1,env kraken2,Read length 150 bp; minimum 10 reads per species
+Software - profiling,sylph,0.9.0,env benchmark,Abundance-corrected MinHash sketch cross-check
+Software - assembly and binning,metaSPAdes,4.2.0,env assembly,See raw reproducibility workbook for detailed provenance and run notes.
+Software - assembly and binning,MEGAHIT,1.2.9,env benchmark,See raw reproducibility workbook for detailed provenance and run notes.
+Software - assembly and binning,MetaBAT2,2.18,env binning,See raw reproducibility workbook for detailed provenance and run notes.
+Software - assembly and binning,EukRep,0.6.7,env eukrep,scikit-learn 0.19 pinned
+Software - genome quality control,CheckM2,1.1.0,env checkm2,See raw reproducibility workbook for detailed provenance and run notes.
+Software - genome quality control,EukCC,2.1.2,env eukcc,See raw reproducibility workbook for detailed provenance and run notes.
+Software - genome quality control,GUNC,1.1.1,env gunc,proGenomes 2.1 database; CSS threshold 0.45
+Software - genome quality control,dRep,3.7.1,env drep,Secondary ANI 0.95 (species); primary ANI 0.90
+Software - taxonomy,GTDB-Tk,2.7.2,env gtdbtk,See raw reproducibility workbook for detailed provenance and run notes.
+Software - taxonomy,FastANI,1.34,env drep (run) / env fastani / env gtdbtk,Aligned-fraction threshold >=0.50; version verified from run log
+Software - presence and strains,CoverM,0.8.0,env coverm,Genome breadth >=50%; read-mapping detection
+Software - presence and strains,inStrain,1.3.9,env instrain,
+Software - presence and strains,PanPhlAn,3.1,env panphlan,STRICT: min_coverage 2; left_max 1.25; right_min 0.75
+Software - phylogeny,RAxML,8.2.13,env profiling,Marker tree: 182 references and 47 sample consensus sequences
+Software - phylogeny,IQ-TREE,3.1.1,env profiling,"VT+F+ASC+R6; 1,000 SH-aLRT and 1,000 ultrafast bootstrap replicates"
+Software - phylogeny,PhyloPhlAn,3.2.1,env profiling,"Whole-genome alignment: 18,199 amino-acid positions"
+Software - phylogeny,DIAMOND (within PhyloPhlAn),2.1.24,env profiling,PhyloPhlAn internal search settings recorded in raw workbook
+Software - phylogeny,MAFFT (within PhyloPhlAn),7.526 (2024/Apr/26),env profiling,PhyloPhlAn internal alignment settings recorded in raw workbook
+Software - phylogeny,trimAl (within PhyloPhlAn),"1.5.1 (reported by the program as v1.5.rev1, build 2025-11-25)",env profiling,gappyout trimming
+Software - phylogeny,FastTreeMP (within PhyloPhlAn),2.2.0,env profiling,SH-like local supports; not bootstrap
+Software - phylogeny,PhiPack,1.1,env phipack,
+Statistical environment,R,4.5.2,archived sessionInfo,vegan 2.7-3; permute 0.9-10; rstatix 0.7.3; ade4 1.7-24. PERMDISP version not separately logged.

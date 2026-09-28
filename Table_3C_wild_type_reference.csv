@@ -1,0 +1,56 @@
+﻿Kingdom,Representative_genome,Product(s),Completeness_%,Contamination_%,Note
+prokaryote,cured_tongue.9,cured_tongue/miao_suanrou/mutton_sausage,78.4,0.14,Intermediate operational category: completeness 78.40% -> interpret with caution
+prokaryote,cured_tongue.20,DFS_salchichon/cured_tongue,99.22,0.18,
+prokaryote,felino_salami.8,cecina/dry_aged_beef/felino_salami/miao_suanrou/mutton_sausage,92.22,0.17,
+prokaryote,dry_aged_beef.33,dry_aged_beef,88.96,0.15,Intermediate operational category: completeness 88.96% -> interpret with caution
+prokaryote,felino_salami.15,felino_salami,96.75,1.29,
+prokaryote,felino_salami.4,felino_salami/miao_suanrou,60.6,1.21,DB representative for cluster 6_1 (override: dRep representative was Miao) | Intermediate operational category: completeness 60.60% -> interpret with caution
+prokaryote,dry_aged_beef.4,DFS_chorizo/dry_aged_beef,94.67,1.22,
+prokaryote,piemonte_salami.23,miao_suanrou/piemonte_salami,95.43,0.01,
+prokaryote,DFS_salchichon.21,DFS_salchichon/felino_salami/miao_suanrou/piemonte_salami,99.99,0.19,
+prokaryote,DFS_chorizo.50,DFS_chorizo,78.04,9.83,Intermediate operational category: contamination 9.83% >5%; completeness 78.04% -> interpret with caution
+prokaryote,DFS_chorizo.45,DFS_chorizo,98.71,3.3,
+prokaryote,dry_aged_beef.30,DFS_chorizo/cecina/dry_aged_beef/felino_salami/miao_suanrou,98.61,0.05,
+prokaryote,piemonte_salami.24,piemonte_salami,86.39,1.26,Intermediate operational category: completeness 86.39% -> interpret with caution
+prokaryote,cured_tongue.28,DFS_salchichon/ciauscolo/cured_tongue/felino_salami/miao_suanrou/piemonte_salami,99.65,0.36,
+prokaryote,ciauscolo.5,DFS_chorizo/DFS_salchichon/ciauscolo/felino_salami/piemonte_salami,87.06,0.21,Intermediate operational category: completeness 87.06% -> interpret with caution
+prokaryote,ciauscolo.4,ciauscolo,100,0.58,
+prokaryote,DFS_salchichon.14,DFS_salchichon,93.55,0.17,
+prokaryote,DFS_salchichon.18,DFS_chorizo/DFS_salchichon,99.98,0.08,
+prokaryote,cured_tongue.5,cured_tongue,99.13,0.19,
+prokaryote,felino_salami.20,felino_salami,83.03,3.41,Intermediate operational category: fails GUNC (possible chimerism); completeness 83.03% -> interpret with caution
+prokaryote,felino_salami.7,felino_salami/miao_suanrou,95.37,2.06,
+prokaryote,piemonte_salami.18,felino_salami/piemonte_salami,99.93,0.06,
+prokaryote,DFS_chorizo.48,DFS_chorizo/miao_suanrou,93.47,5.83,Intermediate operational category: contamination 5.83% >5% -> interpret with caution
+prokaryote,felino_salami.12,felino_salami,94.78,7.47,Intermediate operational category: contamination 7.47% >5% -> interpret with caution
+prokaryote,felino_salami.5,felino_salami,96.03,0.02,
+prokaryote,piemonte_salami.14,DFS_chorizo/DFS_salchichon/piemonte_salami,89.87,0.00,Intermediate operational category: completeness 89.87% -> interpret with caution
+prokaryote,piemonte_salami.7,piemonte_salami,99.67,0.39,
+prokaryote,mutton_sausage.1,mutton_sausage,99.34,0.18,
+prokaryote,cured_tongue.24,cured_tongue,59.68,0.03,Intermediate operational category: completeness 59.68% -> interpret with caution
+prokaryote,dry_aged_beef.31,dry_aged_beef,94.35,4.25,
+prokaryote,DFS_chorizo.11,DFS_chorizo/dry_aged_beef,95,2.62,
+prokaryote,dry_aged_beef.2,DFS_chorizo/cecina/dry_aged_beef/miao_suanrou,62.01,0.42,Intermediate operational category: completeness 62.01% -> interpret with caution
+prokaryote,cecina.54,DFS_chorizo/cecina/dry_aged_beef,73.96,0.87,Intermediate operational category: completeness 73.96% -> interpret with caution
+prokaryote,dry_aged_beef.15,DFS_chorizo/dry_aged_beef,96.91,0.57,
+prokaryote,cecina.64,cecina,96.27,0.99,
+prokaryote,cured_tongue.13,cured_tongue,89,4.41,Intermediate operational category: completeness 89.00% -> interpret with caution
+prokaryote,cured_tongue.21,cured_tongue,54.85,1.22,Intermediate operational category: completeness 54.85% -> interpret with caution
+prokaryote,cured_tongue.3,cured_tongue,68.71,2.19,Intermediate operational category: completeness 68.71% -> interpret with caution
+prokaryote,cured_tongue.30,cured_tongue,75.91,3.16,Intermediate operational category: completeness 75.91% -> interpret with caution
+prokaryote,cecina.20,cecina,66.68,3,Intermediate operational category: completeness 66.68% -> interpret with caution
+prokaryote,cecina.71,cecina,71.66,8.05,Intermediate operational category: contamination 8.05% >5%; completeness 71.66% -> interpret with caution
+prokaryote,cured_tongue.17,cured_tongue,99.08,0.01,
+eukaryote,DFS_chorizo.6,DFS_chorizo,50.43,6.52,Mucorales (moulds) | Intermediate operational category: contamination 6.52% >5%; completeness 50.43% -> interpret with caution
+eukaryote,DFS_chorizo.9,DFS_chorizo,53.91,7.39,Mucorales (moulds) | Intermediate operational category: contamination 7.39% >5%; completeness 53.91% -> interpret with caution
+eukaryote,merged.0,DFS_salchichon/merged,85.51,0.00,Debaryomycetaceae (yeasts) | Intermediate operational category: completeness 85.51% -> interpret with caution
+eukaryote,dry_aged_beef.12,DFS_salchichon/dry_aged_beef,95.86,0.00,Penicillium (moulds)
+eukaryote,cured_tongue.14,cecina/cured_tongue,85.71,0.75,Penicillium (moulds) | Intermediate operational category: completeness 85.71% -> interpret with caution
+eukaryote,DFS_chorizo.24,DFS_chorizo,100,0.38,Penicillium (moulds)
+eukaryote,DFS_chorizo.3,DFS_chorizo/DFS_salchichon/dry_aged_beef,99.38,0.21,Debaryomycetaceae (yeasts)
+eukaryote,cecina.7,cecina,62.11,2.28,Debaryomycetaceae (yeasts) | Intermediate operational category: completeness 62.11% -> interpret with caution
+eukaryote,cecina.31,cecina,89.23,0.41,Debaryomycetaceae (yeasts) | Intermediate operational category: completeness 89.23% -> interpret with caution
+eukaryote,DFS_salchichon.24,DFS_salchichon/cecina,98.5,0.00,Aspergillus (moulds)
+eukaryote,cured_tongue.8,cured_tongue,76.32,5.26,Aspergillus (moulds) | Intermediate operational category: contamination 5.26% >5%; completeness 76.32% -> interpret with caution
+eukaryote,cecina.3,cecina,76.81,0.21,Debaryomycetaceae (yeasts) | Intermediate operational category: completeness 76.81% -> interpret with caution
+eukaryote,cecina.52,cecina,87.16,0.00,Dipodascaceae (yeasts) | Intermediate operational category: completeness 87.16% -> interpret with caution

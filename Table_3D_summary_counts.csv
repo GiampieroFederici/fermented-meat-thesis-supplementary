@@ -1,0 +1,23 @@
+﻿Metric,Value
+Dereplicated prokaryotic representatives (95% ANI operational clusters),98
+Dereplicated eukaryotic representatives (operational genomic groups),15
+  of which FastANI hit,11
+  of which no_hit (below ~80% floor),4
+Core wild-type genomes (prokaryote),42
+Core wild-type genomes (eukaryote),13
+Core wild-type TOTAL,55
+Prokaryote novelty: kSGB (known SGB),87
+Prokaryote novelty: uSGB (candidate unclassified SGB; novelty unconfirmed),11
+,
+Prokaryote functional groups,count
+  Lactic acid bacteria (LAB),50
+  Coagulase-negative staphylococci (CNS),9
+  Surface actinobacteria,8
+  Psychrotrophic Gram-neg spoilage,10
+"  Enterobacteria (Gram-neg, hygiene/spoilage)",19
+  Other Firmicutes,2
+,
+Prokaryote phyla,count
+  Bacillota,61
+  Pseudomonadota,29
+  Actinomycetota,8
